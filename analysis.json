@@ -1,0 +1,11 @@
+{
+    "total_tvl_usd": 2231661274.4441214,
+    "chainlink_tvl_usd": 688731754.910966,
+    "tvl_percentage": 30.861841032865545,
+    "total_markets": 466,
+    "chainlink_markets": 173,
+    "market_percentage": 37.1244635193133,
+    "unused_markets_count": 0,
+    "unused_tvl_usd": 0,
+    "unused_market_ids": []
+}

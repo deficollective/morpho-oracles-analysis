@@ -1,0 +1,406 @@
+{
+  "data": {
+    "markets": [
+      {
+        "id": "0x5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7",
+        "totalValueLockedUSD": "299173379.7251979204373501407352974"
+      },
+      {
+        "id": "0x3a85e619751152991742810df6ec69ce473daef99e28a64ab2340d7b7ccfee49",
+        "totalValueLockedUSD": "200143669.022923900708536"
+      },
+      {
+        "id": "0xb8fc70e82bc5bb53e773626fcc6a23f7eefa036918d7ef216ecfb1950a94a85e",
+        "totalValueLockedUSD": "186669413.1681273624469034157536248"
+      },
+      {
+        "id": "0xb323495f7e4148be5643a4ea4a8221eef163e4bccfdedc2a6f4696baacbc86cc",
+        "totalValueLockedUSD": "136304305.9629046692486580906301366"
+      },
+      {
+        "id": "0x1eda1b67414336cab3914316cb58339ddaef9e43f939af1fed162a989c98bc20",
+        "totalValueLockedUSD": "132748149.41593421117538"
+      },
+      {
+        "id": "0x346afa2b6d528222a2f9721ded6e7e2c40ac94877a598f5dae5013c651d2a462",
+        "totalValueLockedUSD": "125441953.20649439320125"
+      },
+      {
+        "id": "0x407d8c123443d362ffdfe73208068ef158a21d1a44a988c9acc23a51bade7905",
+        "totalValueLockedUSD": "125366767.4687707655980148493647448"
+      },
+      {
+        "id": "0x8e7cc042d739a365c43d0a52d5f24160fa7ae9b7e7c9a479bd02a56041d4cf77",
+        "totalValueLockedUSD": "92727864.87755606115321"
+      },
+      {
+        "id": "0xa921ef34e2fc7a27ccc50ae7e4b154e16c9799d3387076c421423ef52ac4df99",
+        "totalValueLockedUSD": "85746131.511558432302394"
+      },
+      {
+        "id": "0xab0dcab71e65c05b7f241ea79a33452c87e62db387129e4abe15e458d433e4d8",
+        "totalValueLockedUSD": "76652598.1987517015868739855163745"
+      },
+      {
+        "id": "0xa59b6c3c6d1df322195bfb48ddcdcca1a4c0890540e8ee75815765096c1e8971",
+        "totalValueLockedUSD": "70083210.90126400258851"
+      },
+      {
+        "id": "0x64d65c9a2d91c36d56fbc42d69e979335320169b3df63bf92789e2c8883fcc64",
+        "totalValueLockedUSD": "61777849.29323316453543"
+      },
+      {
+        "id": "0xcc63ab57cdcd6dd24cd42db3ebe829fb1b56da89fcd17cea6202cf6b69d02393",
+        "totalValueLockedUSD": "36215894.05928799380481"
+      },
+      {
+        "id": "0x5f8a138ba332398a9116910f4d5e5dcd9b207024c5290ce5bc87bc2dbd8e4a86",
+        "totalValueLockedUSD": "35682385.6024400452537914484804"
+      },
+      {
+        "id": "0x39d11026eae1c6ec02aa4c0910778664089cdd97c3fd23f68f7cd05e2e95af48",
+        "totalValueLockedUSD": "34898686.72388090101965127402911231"
+      },
+      {
+        "id": "0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f",
+        "totalValueLockedUSD": "32288394.195802441964599750833024"
+      },
+      {
+        "id": "0x0f9563442d64ab3bd3bcb27058db0b0d4046a4c46f0acd811dacae9551d2b129",
+        "totalValueLockedUSD": "30502351.84755896326455"
+      },
+      {
+        "id": "0x3274643db77a064abd3bc851de77556a4ad2e2f502f4f0c80845fa8f909ecf0b",
+        "totalValueLockedUSD": "26002793.43417600338658"
+      },
+      {
+        "id": "0x8d177cc2597296e8ff4816be51fe2482add89de82bdfaba3118c7948a6b2bc02",
+        "totalValueLockedUSD": "24742953.48249484145757"
+      },
+      {
+        "id": "0xf78b7d3a62437f78097745a5e3117a50c56a02ec5f072cba8d988a129c6d4fb6",
+        "totalValueLockedUSD": "24578173.0349681360456970272992"
+      },
+      {
+        "id": "0x21e55c99123958ff5667f824948c97d0f64dfaa6e2848062e72bc68d200d35f9",
+        "totalValueLockedUSD": "24403134.70630642937694"
+      },
+      {
+        "id": "0x57f4e42c0707d3ae0ae39c9343dcba78ff79fa663da040eca45717a9b0b0557f",
+        "totalValueLockedUSD": "24132313.16777087716147252277417725"
+      },
+      {
+        "id": "0xbfed072faee09b963949defcdb91094465c34c6c62d798b906274ef3563c9cac",
+        "totalValueLockedUSD": "23457480.87562650152466"
+      },
+      {
+        "id": "0x1247f1c237eceae0602eab1470a5061a6dd8f734ba88c7cdc5d6109fb0026b28",
+        "totalValueLockedUSD": "22793733.66254017336723468996969576"
+      },
+      {
+        "id": "0x138eec0e4a1937eb92ebc70043ed539661dd7ed5a89fb92a720b341650288a40",
+        "totalValueLockedUSD": "22638069.1011287922899163358539956"
+      },
+      {
+        "id": "0x147977320f168afc651b7e5a1849cc1b1e64e329e1bf0212fa49dcb2856074a4",
+        "totalValueLockedUSD": "20155611.47177083293396"
+      },
+      {
+        "id": "0xba761af4134efb0855adfba638945f454f0a704af11fc93439e20c7c5ebab942",
+        "totalValueLockedUSD": "18307177.2128863526453011476"
+      },
+      {
+        "id": "0x124ddf1fa02a94085d1fcc35c46c7e180ddb8a0d3ec1181cf67a75341501c9e6",
+        "totalValueLockedUSD": "18225284.67490282863119100869131135"
+      },
+      {
+        "id": "0x37e7484d642d90f14451f1910ba4b7b8e4c3ccdd0ec28f8b2bdb35479e472ba7",
+        "totalValueLockedUSD": "18191913.591316434679933275366324"
+      },
+      {
+        "id": "0x9337a95dcb09d10abb33fdb955dd27b46e345f5510d54d9403f570f8f37b5983",
+        "totalValueLockedUSD": "13375083.69929549095345459463"
+      },
+      {
+        "id": "0xf6a056627a51e511ec7f48332421432ea6971fc148d8f3c451e14ea108026549",
+        "totalValueLockedUSD": "13159130.72031002084067"
+      },
+      {
+        "id": "0xe1b65304edd8ceaea9b629df4c3c926a37d1216e27900505c04f14b2ed279f33",
+        "totalValueLockedUSD": "11635895.45608597763922"
+      },
+      {
+        "id": "0x4ef32e4877329436968f4a29b0c8285531d113dad29b727d88beafe5ed45be6a",
+        "totalValueLockedUSD": "11368031.28230373669198"
+      },
+      {
+        "id": "0xbf6687cb042a09451e66ebc11d7716c49fb8ccc75f484f7fab0eed6624bd5838",
+        "totalValueLockedUSD": "9992376.52368510675813"
+      },
+      {
+        "id": "0xb6f4eebd60871f99bf464ae0b67045a26797cf7ef57c458d57e08c205f84feac",
+        "totalValueLockedUSD": "9344714.42089839579135"
+      },
+      {
+        "id": "0xa39263bf7275f772863c464ef4e9e972aaa0f1a6a1bf2a47f92bf57a542d2458",
+        "totalValueLockedUSD": "7912169.0198620841463828"
+      },
+      {
+        "id": "0xd0e50cdac92fe2172043f5e0c36532c6369d24947e40968f34a5e8819ca9ec5d",
+        "totalValueLockedUSD": "7599685.198694731877952126341453273"
+      },
+      {
+        "id": "0x3889dee51674c6e728f7d05f11a3407c6853e433a0e63f8febbc45887a26a475",
+        "totalValueLockedUSD": "7430068.85603817864771"
+      },
+      {
+        "id": "0x6029eea874791e01e2f3ce361f2e08839cd18b1e26eea6243fa3e43fe8f6fa23",
+        "totalValueLockedUSD": "7236956.772487136933345895856898811"
+      },
+      {
+        "id": "0x85c7f4374f3a403b36d54cc284983b2b02bbd8581ee0f3c36494447b87d9fcab",
+        "totalValueLockedUSD": "7224888.420695680982761038720037938"
+      },
+      {
+        "id": "0xb7ad412532006bf876534ccae59900ddd9d1d1e394959065cb39b12b22f94ff5",
+        "totalValueLockedUSD": "5505449.01178780577985880874"
+      },
+      {
+        "id": "0xbf02d6c6852fa0b8247d5514d0c91e6c1fbde9a168ac3fd2033028b5ee5ce6d0",
+        "totalValueLockedUSD": "5211334.14049404564576"
+      },
+      {
+        "id": "0x5f5bfaa51137098abc90b249c93b6051987877ada76135bb3dd7502b10d184a3",
+        "totalValueLockedUSD": "4999699.95102793830972"
+      },
+      {
+        "id": "0x198132864e7974fb451dfebeb098b3b7e7e65566667fb1cf1116db4fb2ad23f9",
+        "totalValueLockedUSD": "4707966.324706140646568262"
+      },
+      {
+        "id": "0x83b7ad16905809ea36482f4fbf6cfee9c9f316d128de9a5da1952607d5e4df5e",
+        "totalValueLockedUSD": "4602915.53480874145653"
+      },
+      {
+        "id": "0x8e6aeb10c401de3279ac79b4b2ea15fc94b7d9cfc098d6c2a1ff7b2b26d9d02c",
+        "totalValueLockedUSD": "4509922.8094445714132152350060672"
+      },
+      {
+        "id": "0xa0534c78620867b7c8706e3b6df9e69a2bc67c783281b7a77e034ed75cee012e",
+        "totalValueLockedUSD": "4465513.130752315570964181883866626"
+      },
+      {
+        "id": "0xe7e9694b754c4d4f7e21faf7223f6fa71abaeb10296a4c43a54a7977149687d2",
+        "totalValueLockedUSD": "4396006.388680753594039816873240626"
+      },
+      {
+        "id": "0x85ab69d50add7daa0934b5224889af0a882f2e3b4572d82c771dd0875f4eaa9b",
+        "totalValueLockedUSD": "2991087.8800233866067981618438"
+      },
+      {
+        "id": "0x1a9ccaca2dba9469cd9cba3d077466761b05f465c412d2bf2c71614c4963dd84",
+        "totalValueLockedUSD": "2974437.4617923676676"
+      },
+      {
+        "id": "0xd925961ad5df1d12f677ff14cf20bac37ea5ef3b325d64d5a9f4c0cc013a1d47",
+        "totalValueLockedUSD": "2886343.19089403424"
+      },
+      {
+        "id": "0x61765602144e91e5ac9f9e98b8584eae308f9951596fd7f5e0f59f21cd2bf664",
+        "totalValueLockedUSD": "2631431.73183854664097828028744495"
+      },
+      {
+        "id": "0xc54d7acf14de29e0e5527cabd7a576506870346a78a11a6762e2cca66322ec41",
+        "totalValueLockedUSD": "2572571.292080085633250774765630589"
+      },
+      {
+        "id": "0xe4cfbee9af4ad713b41bf79f009ca02b17c001a0c0e7bd2e6a89b1111b3d3f08",
+        "totalValueLockedUSD": "2533079.6831310703184"
+      },
+      {
+        "id": "0xdc5333039bcf15f1237133f74d5806675d83d9cf19cfd4cfdd9be674842651bf",
+        "totalValueLockedUSD": "2361015.279749266899131045174099821"
+      },
+      {
+        "id": "0x461da96754b33fec844fc5e5718bf24298a2c832d8216c5ffd17a5230548f01f",
+        "totalValueLockedUSD": "2254377.57039475741704"
+      },
+      {
+        "id": "0xcacd4c39af872ddecd48b650557ff5bcc7d3338194c0f5b2038e0d4dec5dc022",
+        "totalValueLockedUSD": "2133523.0090096803689181012"
+      },
+      {
+        "id": "0xf0edbb36183591ff28c56fdb283fdd6896cf1298990e5913208902adb87d2b75",
+        "totalValueLockedUSD": "2090295.72982548083483421186262767"
+      },
+      {
+        "id": "0x3c16c2d107caade490b1d513ccc54cbd06a30f20ad6a9aaad8c744413872514a",
+        "totalValueLockedUSD": "2072851.813581102164008124006159326"
+      },
+      {
+        "id": "0x729badf297ee9f2f6b3f717b96fd355fc6ec00422284ce1968e76647b258cf44",
+        "totalValueLockedUSD": "1999880.98646359849476"
+      },
+      {
+        "id": "0xc9098061d437a9dd53b0070cb33df6fca1a0a5ead288588c88699b0420c1c078",
+        "totalValueLockedUSD": "1842974.382794656997160407495440929"
+      },
+      {
+        "id": "0x54efdee08e272e929034a8f26f7ca34b1ebe364b275391169b28c6d7db24dbc8",
+        "totalValueLockedUSD": "1687479.57894715105326"
+      },
+      {
+        "id": "0x0ec590b250f171c22d39958a55a0589091431fe90599d55409c39aeb01363cb0",
+        "totalValueLockedUSD": "1661422.91657091042516"
+      },
+      {
+        "id": "0xfd3e5c20340aeba93f78f7dc4657dc1e11b553c68c545acc836321a14b47e457",
+        "totalValueLockedUSD": "1636525.784307775633630260903969222"
+      },
+      {
+        "id": "0x7ad683900a4017394d76a43cd695a2756cfe96387cb0aa3f8cf3ef73135f85b3",
+        "totalValueLockedUSD": "1287180.91073500829406349250399088"
+      },
+      {
+        "id": "0xc4e18eb6d0e9b0fa90a15bc0a98190cbf3d5ba763af410346f5174b014cefd8d",
+        "totalValueLockedUSD": "1195088.994335630559353802174541357"
+      },
+      {
+        "id": "0x18b52e40c13af881209b78e14bdd5f094a6c7fa39ce411e0d119e9201f71dc20",
+        "totalValueLockedUSD": "1127482.362628077006813724"
+      },
+      {
+        "id": "0x27852bb453d4fe6ec918dd27b7136bb233d210aab1758a59ed8daaeec24f7b3d",
+        "totalValueLockedUSD": "1123984.85514490546476"
+      },
+      {
+        "id": "0xeea9a2431eba248f1cc4d8d3d2a34b31cbf4884ecc602f9270372f892a2ba185",
+        "totalValueLockedUSD": "1109818.093338"
+      },
+      {
+        "id": "0xe475337d11be1db07f7c5a156e511f05d1844308e66e17d2ba5da0839d3b34d9",
+        "totalValueLockedUSD": "1104462.255944791561754715455498718"
+      },
+      {
+        "id": "0x2cbfb38723a8d9a2ad1607015591a78cfe3a5949561b39bde42c242b22874ec0",
+        "totalValueLockedUSD": "1104381.05530289243025944071036715"
+      },
+      {
+        "id": "0x97bb820669a19ba5fa6de964a466292edd67957849f9631eb8b830c382f58b7f",
+        "totalValueLockedUSD": "1007464.2931356936290921350552476"
+      },
+      {
+        "id": "0x46981f15ab56d2fdff819d9c2b9c33ed9ce8086e0cce70939175ac7e55377c7f",
+        "totalValueLockedUSD": "999382.3939391600179401993449274258"
+      },
+      {
+        "id": "0xa9abd614ac94eee663b472bac0f704ece4469c3ce12df1d84565c7781541793e",
+        "totalValueLockedUSD": "980083.81973710301184"
+      },
+      {
+        "id": "0x698fe98247a40c5771537b5786b2f3f9d78eb487b4ce4d75533cd0e94d88a115",
+        "totalValueLockedUSD": "933455.5364893278078439748540417"
+      },
+      {
+        "id": "0x0fc05005f1a0346bc2f29bd5e1da2023d7f93b4a95e211526ea3205329c9d079",
+        "totalValueLockedUSD": "921628.227907387849572228"
+      },
+      {
+        "id": "0xb5b0ff0fccf16dff5bef6d2d001d60f5c4ab49df1020a01073d3ad635c80e8d5",
+        "totalValueLockedUSD": "850641.19715885848752"
+      },
+      {
+        "id": "0x94e08261235c49638bba42ab2883394ea69bbf9f2a420bde48757775d0f1a182",
+        "totalValueLockedUSD": "799210.9717163631922996129716"
+      },
+      {
+        "id": "0x1def309fa6c5b6ee7044b67154f15872af6c7e240f1e103f6a46cd82fb351688",
+        "totalValueLockedUSD": "592206.9575782149504"
+      },
+      {
+        "id": "0x1ca7ff6b26581fe3155f391f3960d32a033b5f7d537b1f1932b2021a6cf4f706",
+        "totalValueLockedUSD": "589376.9963649138616049383301077044"
+      },
+      {
+        "id": "0x514efda728a646dcafe4fdc9afe4ea214709e110ac1b2b78185ae00c1782cc82",
+        "totalValueLockedUSD": "557517.072079304551965534"
+      },
+      {
+        "id": "0x3bb29b62affbedc60b8446b235aaa349d5e3bad96c09bca1d7a2d693c06669aa",
+        "totalValueLockedUSD": "499730.1951370896031884628162641889"
+      },
+      {
+        "id": "0x140fe48783fe88d2a52b31705577d917628caaf74ff79865b39d4c2aa6c2fd3c",
+        "totalValueLockedUSD": "453864.134201267923119848"
+      },
+      {
+        "id": "0xa6c4cbcfa20ec490e4ed3091a41a9c7cbefab586728fdde59ac3907e64c41989",
+        "totalValueLockedUSD": "368046.346813851164716439398899424"
+      },
+      {
+        "id": "0x19ab5f7fa9a014d6e5c07384ac34f56e517f449c75f3c9cdc1e0ccd06313419b",
+        "totalValueLockedUSD": "350578.83771636832785"
+      },
+      {
+        "id": "0x6c65bb7104ae6fc1dc2cdc97fcb7df2a4747363e76135b32d9170b2520bb65eb",
+        "totalValueLockedUSD": "252612.0636302141648"
+      },
+      {
+        "id": "0xe3a65a68d203a3e3cbd4a59e4604db431439ee6eeb3f88268d7f57e415df7e94",
+        "totalValueLockedUSD": "243813.386744802625338"
+      },
+      {
+        "id": "0x6a6c8e41a6a7ccbea68e1e6a19ece1fdd863b2b6c9e0f71bbcd4dcbe8b1062e8",
+        "totalValueLockedUSD": "236096.3083214579267764096153472501"
+      },
+      {
+        "id": "0x2287407f0f42ad5ad224f70e4d9da37f02770f79959df703d6cfee8afc548e0d",
+        "totalValueLockedUSD": "219014.9763849592180900632"
+      },
+      {
+        "id": "0xbd1ad3b968f5f0552dbd8cf1989a62881407c5cccf9e49fb3657c8731caf0c1f",
+        "totalValueLockedUSD": "208126.69893524602632"
+      },
+      {
+        "id": "0x8eaf7b29f02ba8d8c1d7aeb587403dcb16e2e943e4e2f5f94b0963c2386406c9",
+        "totalValueLockedUSD": "195305.1686785227799"
+      },
+      {
+        "id": "0x935faae97f5784dc97fba3c6ec072186ad9dbbf16368431c38f6a8b7fc3ec9a3",
+        "totalValueLockedUSD": "190926.411461051079860910572"
+      },
+      {
+        "id": "0xe95187ba4e7668ab4434bbb17d1dfd7b87e878242eee3e73dac9fdb79a4d0d99",
+        "totalValueLockedUSD": "182260.21098084733536"
+      },
+      {
+        "id": "0xfd8493f09eb6203615221378d89f53fcd92ff4f7d62cca87eece9a2fff59e86f",
+        "totalValueLockedUSD": "158289.00594098717290250137401625"
+      },
+      {
+        "id": "0x92e5fe774a581e52428b4f8d6a775f35619a2e0a184363ae123fae478056d1cd",
+        "totalValueLockedUSD": "141385.74254840076384"
+      },
+      {
+        "id": "0x5109cda72b0603e1bac4631ddebd3104bea6414e686c3f7aa2cb3c65795602f0",
+        "totalValueLockedUSD": "135841.894182016552306544"
+      },
+      {
+        "id": "0x1260f0313a8fdf0fc1792aa8fc2545c30227e553a23b087e5abe9bd91caf39a9",
+        "totalValueLockedUSD": "127454.1074408188607325252213"
+      },
+      {
+        "id": "0xdb760246f6859780f6c1b272d47a8f64710777121118e56e0cdb4b8b744a3094",
+        "totalValueLockedUSD": "121204.25358226186449918896194872"
+      },
+      {
+        "id": "0x864c9b82eb066ae2c038ba763dfc0221001e62fc40925530056349633eb0a259",
+        "totalValueLockedUSD": "119352.19145159339904"
+      },
+      {
+        "id": "0xe7a01a04908247c9bafb7e2872d14c67a9ae6463762dcf72751b8711e987a62a",
+        "totalValueLockedUSD": "115256.965397570272323616"
+      }
+    ]
+  }
+}
