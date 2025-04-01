@@ -12,6 +12,24 @@ In order to reproduce the result you need to add an RPC URL, compute a fresh TVL
 
 Final results are saved in `analysis.json.
 
+### Refreshing TVL data using TheGraph
+
+The data on Morpho's TVL comes from morpho's subgraph and is saved in `TVL.json`. You should update this data to a fresh output in order to run a new analysis. 
+
+You can run the subgraph here: https://thegraph.com/explorer/subgraphs/8Lz789DP5VKLXumTMTgygjU2xtuzx8AhbaacgN5PYCAs?view=Query&chain=arbitrum-one
+Using the following Query:
+
+```
+{
+    markets(orderBy: totalValueLockedUSD, orderDirection: desc) {
+       id
+       totalValueLockedUSD
+    }
+}
+```
+
+And save the result in `TVL.json`
+
 ## Last Results (25th March 2025)
 
 We ran the script on the 25th of March and obtained the following results:
