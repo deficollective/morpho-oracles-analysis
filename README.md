@@ -14,10 +14,10 @@ Final results are saved in `analysis.json.
 
 ### Refreshing TVL data using TheGraph
 
-The data on Morpho's TVL comes from morpho's subgraph and is saved in `TVL.json`. You should update this data to a fresh output in order to run a new analysis. 
+The data on Morpho's TVL comes from morpho's subgraph and is saved in `tvl.json`. You should update this data to a fresh output in order to run a new analysis. 
 
 You can run the subgraph here: https://thegraph.com/explorer/subgraphs/8Lz789DP5VKLXumTMTgygjU2xtuzx8AhbaacgN5PYCAs?view=Query&chain=arbitrum-one
-Using the following Query:
+using the following Query:
 
 ```
 {
@@ -28,7 +28,7 @@ Using the following Query:
 }
 ```
 
-And save the result in `TVL.json`
+And save the result in `tvl.json`
 
 ## Last Results (25th March 2025)
 
